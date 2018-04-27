@@ -5,7 +5,7 @@ Spring 2018 - Repository for Team Abracadabra
 
   -Apparently this thing only works on Linux. Out of all of us, the only one who could get it to work was running Ubuntu 17.10
   
-  -You'll need Python 3.6, Tensorflow 1.5, and numpy 1.13.3. At least, those are the versions we used. 
+  -You'll need Python 3.6, TensorFlow 1.5, and numpy 1.13.3. At least, those are the versions we used. Python and TensorFlow were installed as instructed in lab 1, and numpy with the command `conda install -c anaconda numpy`
   
   -You'll need the PIL module. I installed it with the command `sudo apt-get install python-imaging`
   
