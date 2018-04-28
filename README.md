@@ -15,7 +15,7 @@ Spring 2018 - Repository for Team Abracadabra
   
 ## How to run ("short" version)
 
-  Unfortunately even running the project with all image vectors pre-generated takes a few hours (approx. 3). There are several thousands of images the program has to step through, and for each one it compares it to several hundred other images. The good news is that it saves partial output so you can kill it once you're tired of waiting and look at whatever it managed to output and compare it to what we have in the slides. It also tracks progress so you can tell how far along it is when you decide to kill it. 
+  Unfortunately even running the project with all image vectors pre-generated takes a few hours (approx. 3). There are several thousands of images the program has to step through, and for each one it compares it to several hundred other images. The good news is that it saves partial output so you can kill it once you're tired of waiting and look at whatever it managed to output and compare it to what we have in the slides (the terrible-looking results). It also tracks progress so you can tell how far along it is when you decide to kill it. 
   
   Anyway, to do this all you have to do is run the run.py file with the arguments 'mickey.jpg' and 'flower_images'. You should also be sure to have the main_img_vectors and tile_vectors directories in the same directory as you're running the program from. Everything is provided in the repo. 
   
